@@ -1,1 +1,2 @@
-s is the fist file
+This is the fist file
+addind second file
